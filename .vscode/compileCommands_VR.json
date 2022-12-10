@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Projects\\Unreal Projects\\VR\\VR\\Source\\VR\\PortalFunctionLibrary.cpp",
+		"arguments": [
+			"D:\\Softwares\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal Projects\\VR\\VR\\.vscode\\compileCommands_VR\\VR.268.rsp"
+		],
+		"directory": "D:\\Softwares\\Unreal Engine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal Projects\\VR\\VR\\Source\\VR\\PortalFunctionLibrary.h",
+		"arguments": [
+			"D:\\Softwares\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal Projects\\VR\\VR\\.vscode\\compileCommands_VR\\VR.268.rsp"
+		],
+		"directory": "D:\\Softwares\\Unreal Engine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal Projects\\VR\\VR\\Source\\VR\\VR.Build.cs",
+		"arguments": [
+			"D:\\Softwares\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal Projects\\VR\\VR\\.vscode\\compileCommands_VR\\VR.268.rsp"
+		],
+		"directory": "D:\\Softwares\\Unreal Engine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal Projects\\VR\\VR\\Source\\VR\\VR.cpp",
+		"arguments": [
+			"D:\\Softwares\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal Projects\\VR\\VR\\.vscode\\compileCommands_VR\\VR.268.rsp"
+		],
+		"directory": "D:\\Softwares\\Unreal Engine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal Projects\\VR\\VR\\Source\\VR\\VR.h",
+		"arguments": [
+			"D:\\Softwares\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal Projects\\VR\\VR\\.vscode\\compileCommands_VR\\VR.268.rsp"
+		],
+		"directory": "D:\\Softwares\\Unreal Engine\\UE_5.1\\Engine\\Source"
+	}
+]

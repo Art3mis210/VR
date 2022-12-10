@@ -1,0 +1,20 @@
+{
+	"configurations": [
+		{
+			"name": "VREditor Editor Win64 Development (VR)",
+			"compilerPath": "D:\\Softwares\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "D:\\Projects\\Unreal Projects\\VR\\VR\\.vscode\\compileCommands_VR.json"
+		},
+		{
+			"name": "Win32",
+			"compilerPath": "D:\\Softwares\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "D:\\Projects\\Unreal Projects\\VR\\VR\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}
